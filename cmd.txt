@@ -1,0 +1,2 @@
+sudo netstat -lpn |grep :3306
+sudo docker-compose exec laravel.test bash
